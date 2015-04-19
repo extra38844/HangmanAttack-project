@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="300" height="100" tilewidth="16" tileheight="16" nextobjectid="1">
+ <properties>
+  <property name="unity:scale" value="0.0625"/>
+ </properties>
+ <tileset firstgid="1" name="basic_tileset" tilewidth="16" tileheight="16">
+  <image source="../Art/GPJ_2D_Platformer_Sprites.png" width="128" height="128"/>
+  <tile id="16">
+   <objectgroup draworder="index">
+    <object id="0" x="0.0909091" y="0" width="15.6364" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="17">
+   <objectgroup draworder="index">
+    <object id="0" x="-1.27273" y="4.18182" width="16.3636" height="12.0909"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer name="Ground" width="300" height="100">
+  <properties>
+   <property name="unity:layer" value="Ground"/>
+   <property name="unity:tag" value="Ground"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2UsKgDAMBUCv4P0v6774SZNii86ACy0xuvCR4rYBAAAAAAAAAAAAAAAAAAAAAAAAADPsyZre4+0eld7AmkZmTLV3u9Z7L2C+zKwRzZ6ztRXmEnkFtK7yqj1/O8PkFfxbdN9V/fZHzH7yCv4tmhcj8qpan8krmQXfEc2mu5nn7l/cU31Utn7WfwOgfz8VuX7Wo6dv9Lmy7zI6Y+QVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUHEAFlMK9g==
+  </data>
+ </layer>
+ <layer name="Hazzards" width="300" height="100">
+  <properties>
+   <property name="unity:isTrigger" value="true"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2bEJADAIBEBncP9h06RME9CA5A5stZMXIwAAAAAAAAAAAAAAAAAAAAAAAICT3DW1P0Al+wrmy5A/AAAA+Jd7GAC49TI/VM/yDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6LMADJwA6w==
+  </data>
+ </layer>
+</map>

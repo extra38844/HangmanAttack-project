@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: ed534d9defab70c4697df33baba56cec
+timeCreated: 1428444027
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player
+    21300002: Player_Walking_1
+    21300004: Player_Walking_2
+    21300006: Player_Jump
+    21300008: Player_Walking_3
+    21300010: Player_Walking_4
+    21300012: Player_Walking_5
+    21300014: Player_Walking_6
+    21300016: Player_Walking_7
+    21300018: Player_Walking_8
+    21300020: Spaghetti-1
+    21300022: Spaghetti-2
+    21300024: Spaghetti-3
+    21300026: Executioner-1
+    21300028: Executioner-2
+    21300030: Executioner-3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 876
+        width: 70
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 875
+        width: 69
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 876
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Jump
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 876
+        width: 69
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 876
+        width: 69
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 876
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 875
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 875
+        width: 69
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 877
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 876
+        width: 67
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spaghetti-1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 776
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spaghetti-2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 776
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spaghetti-3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 775
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Executioner-1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 750
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Executioner-2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 752
+        width: 117
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Executioner-3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 752
+        width: 143
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

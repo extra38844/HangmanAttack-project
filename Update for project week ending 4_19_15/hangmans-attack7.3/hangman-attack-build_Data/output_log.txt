@@ -1,0 +1,87 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\game-development\unity\hangmans-attack5.2\hangman-attack-build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\game-development\unity\hangmans-attack5.2\hangman-attack-build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\game-development\unity\hangmans-attack5.2\hangman-attack-build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\game-development\unity\hangmans-attack5.2\hangman-attack-build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\game-development\unity\hangmans-attack5.2\hangman-attack-build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\game-development\unity\hangmans-attack5.2\hangman-attack-build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.163 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\game-development\unity\hangmans-attack5.2\hangman-attack-build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\game-development\unity\hangmans-attack5.2\hangman-attack-build_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.281404 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 679.
+Total: 0.490918 ms (FindLiveObjects: 0.075177 ms CreateObjectMapping: 0.026719 ms MarkObjects: 0.381775 ms  DeleteObjects: 0.005887 ms)
+
+tiles_A (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tiles_A (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tiles_A (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tiles_A (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Activated Checkpoint (16.7, 2.5, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Activated Checkpoint (16.7, 2.5, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Activated SpawnPoint (27.1, -0.4, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tiles_A (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tiles_A (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Activated SpawnPoint (36.4, -0.4, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tiles_A (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tiles_A (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Activated SpawnPoint (27.1, -0.4, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tiles_A (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tiles_A (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
