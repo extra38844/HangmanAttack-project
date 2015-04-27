@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 63ddfc71aa6f6394a812e8a0c1970846
+timeCreated: 1428940934
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - currentSpawnPoint: {fileID: 126736, guid: 89214a351ef3eaf4a9c666954edf67b8, type: 2}
+  - currentSpawnPoint2: {fileID: 113942, guid: 453df5d6e8f906e49b3ab477feaea17d, type: 2}
+  - A: {fileID: 143012, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - B: {fileID: 105272, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - C: {fileID: 181762, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - D: {fileID: 142904, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - E: {fileID: 164512, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - F: {fileID: 198668, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - G: {fileID: 142572, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - H: {fileID: 192504, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - I: {fileID: 146058, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - J: {fileID: 155174, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - K: {fileID: 184840, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - L: {fileID: 109424, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - M: {fileID: 144922, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - N: {fileID: 118364, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - O: {fileID: 114248, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - P: {fileID: 174732, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - Q: {fileID: 138994, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - R: {fileID: 185694, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - S: {fileID: 190242, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - T: {fileID: 147500, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - U: {fileID: 140466, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - V: {fileID: 170418, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - W: {fileID: 109680, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - X: {fileID: 108452, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - Y: {fileID: 106462, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  - Z: {fileID: 112566, guid: d824bbbfc557d4f42a9e64318633b604, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
