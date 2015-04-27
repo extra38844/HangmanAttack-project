@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{190FA4E6-53A2-D3D4-5A6A-9BDB82D39CDA}") = "hangmans-attack2", "Assembly-CSharp.csproj", "{672C8BB9-BD8D-126D-0DF4-CB707DF8C8C0}"
+EndProject
+Project("{190FA4E6-53A2-D3D4-5A6A-9BDB82D39CDA}") = "hangmans-attack2", "Assembly-CSharp-Editor.csproj", "{A75F1779-6C8B-1568-9E4C-8060B0BDBAE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{672C8BB9-BD8D-126D-0DF4-CB707DF8C8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672C8BB9-BD8D-126D-0DF4-CB707DF8C8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672C8BB9-BD8D-126D-0DF4-CB707DF8C8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672C8BB9-BD8D-126D-0DF4-CB707DF8C8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75F1779-6C8B-1568-9E4C-8060B0BDBAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75F1779-6C8B-1568-9E4C-8060B0BDBAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75F1779-6C8B-1568-9E4C-8060B0BDBAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75F1779-6C8B-1568-9E4C-8060B0BDBAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal

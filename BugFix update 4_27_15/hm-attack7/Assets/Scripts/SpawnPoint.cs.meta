@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2866ab9cc3d111447847a6a2bea60ab6
+timeCreated: 1428941189
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - currentSpawnPoint: {fileID: 126736, guid: 89214a351ef3eaf4a9c666954edf67b8, type: 2}
+  - tileManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
