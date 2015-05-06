@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Ladder.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Lift.cs" Line="19" Column="17" />
+      <File FileName="Assets\Scripts\Ladder.cs" Line="24" Column="103" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="148" Column="3" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="50" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

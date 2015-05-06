@@ -1,0 +1,29 @@
+﻿/// <summary>
+/// Background.
+/// Description of Class - Renders the Crumpled Paper Background
+/// </summary>
+
+using UnityEngine;
+using System.Collections;
+
+public class Background : MonoBehaviour {
+	
+	//setting speed to 0 but can change this value to make the paper move
+	public float speed = 0.0f;
+	public Renderer rend;
+	// Use this for initialization
+	
+	void Start () {
+		//find the renderer on this object
+		rend = GetComponent<Renderer>();
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		//move the background horizontally
+		Vector2 offset = new Vector2(Time.time * speed, 0);
+		//will make it so the background keeps moving
+		rend.material.mainTextureOffset = offset;
+		
+	}
+}

@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EnemyRandomizer.cs" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\Spaghetti.cs" Line="4" Column="23" />
+      <File FileName="Assets\Scripts\EnemyPatrol.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Zombie.cs" Line="4" Column="20" />
+      <File FileName="Assets\Scripts\Spider.cs" Line="13" Column="3" />
+      <File FileName="Assets\Scripts\EyeBall.cs" Line="4" Column="14" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="4" Column="7" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="63" Column="17" />
+      <File FileName="Assets\Scripts\ChoseLetter.cs" Line="51" Column="42" />
+      <File FileName="Assets\Scripts\HangmanController.cs" Line="41" Column="20" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
